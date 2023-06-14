@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+
+.card{
+    border-radius: 10px;
+    align-items: center;
+    outline: solid 2px thistle;
+    width: 10em;
+    flex-direction: column;
+    display: flex;
+    justify-content: end;
+    background-color: white;
+}
+
+.card:hover{
+    cursor: pointer;
+    outline-color: black;
+}
+
+img {
+    border-radius: 10px;
+    height: 9em;
+    width: 100%;
+    object-fit: cover;
+}
+
+.description{
+    font-family: 'Dosis', monospace;
+}
