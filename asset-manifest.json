@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/%7Bmemory-card-game%7D/static/css/main.7c282b2c.css",
-    "main.js": "/%7Bmemory-card-game%7D/static/js/main.fce0441a.js",
-    "static/media/background.jpg": "/%7Bmemory-card-game%7D/static/media/background.cc69f4f7e472426a4a3d.jpg",
-    "static/media/eclairs.jpg": "/%7Bmemory-card-game%7D/static/media/eclairs.fff3542dd3a1a9ac636a.jpg",
-    "static/media/brownie.jpg": "/%7Bmemory-card-game%7D/static/media/brownie.3e32416b16d2364d13f8.jpg",
-    "static/media/cookie.jpg": "/%7Bmemory-card-game%7D/static/media/cookie.447325e3434bc0f1400e.jpg",
-    "static/media/waffles.jpg": "/%7Bmemory-card-game%7D/static/media/waffles.d54ed8fa0f9dc1092652.jpg",
-    "static/media/chocolate.jpg": "/%7Bmemory-card-game%7D/static/media/chocolate.ead2bc7dc90da5d26510.jpg",
-    "static/media/icecream.jpg": "/%7Bmemory-card-game%7D/static/media/icecream.50e227e3d4c0fc9e94f6.jpg",
-    "static/media/macarons.jpg": "/%7Bmemory-card-game%7D/static/media/macarons.a13cc2faa60dbf90b077.jpg",
-    "static/media/stroopwaffles.jpg": "/%7Bmemory-card-game%7D/static/media/stroopwaffles.86931bab0c2e626f3eef.jpg",
-    "static/media/cheesecake.jpg": "/%7Bmemory-card-game%7D/static/media/cheesecake.7d2ffb02683ab18ef20a.jpg",
-    "static/media/cupcake.jpg": "/%7Bmemory-card-game%7D/static/media/cupcake.10ebe2d2dac4ea231173.jpg",
-    "static/media/doughnut.jpg": "/%7Bmemory-card-game%7D/static/media/doughnut.d5e21065a632fbdc54d4.jpg",
-    "static/media/lollipop.jpg": "/%7Bmemory-card-game%7D/static/media/lollipop.f7b419313899ed2da01b.jpg",
-    "index.html": "/%7Bmemory-card-game%7D/index.html",
-    "main.7c282b2c.css.map": "/%7Bmemory-card-game%7D/static/css/main.7c282b2c.css.map",
-    "main.fce0441a.js.map": "/%7Bmemory-card-game%7D/static/js/main.fce0441a.js.map"
+    "main.css": "/memory-card-game/static/css/main.7c282b2c.css",
+    "main.js": "/memory-card-game/static/js/main.cded32d4.js",
+    "static/media/background.jpg": "/memory-card-game/static/media/background.cc69f4f7e472426a4a3d.jpg",
+    "static/media/eclairs.jpg": "/memory-card-game/static/media/eclairs.fff3542dd3a1a9ac636a.jpg",
+    "static/media/brownie.jpg": "/memory-card-game/static/media/brownie.3e32416b16d2364d13f8.jpg",
+    "static/media/cookie.jpg": "/memory-card-game/static/media/cookie.447325e3434bc0f1400e.jpg",
+    "static/media/waffles.jpg": "/memory-card-game/static/media/waffles.d54ed8fa0f9dc1092652.jpg",
+    "static/media/chocolate.jpg": "/memory-card-game/static/media/chocolate.ead2bc7dc90da5d26510.jpg",
+    "static/media/icecream.jpg": "/memory-card-game/static/media/icecream.50e227e3d4c0fc9e94f6.jpg",
+    "static/media/macarons.jpg": "/memory-card-game/static/media/macarons.a13cc2faa60dbf90b077.jpg",
+    "static/media/stroopwaffles.jpg": "/memory-card-game/static/media/stroopwaffles.86931bab0c2e626f3eef.jpg",
+    "static/media/cheesecake.jpg": "/memory-card-game/static/media/cheesecake.7d2ffb02683ab18ef20a.jpg",
+    "static/media/cupcake.jpg": "/memory-card-game/static/media/cupcake.10ebe2d2dac4ea231173.jpg",
+    "static/media/doughnut.jpg": "/memory-card-game/static/media/doughnut.d5e21065a632fbdc54d4.jpg",
+    "static/media/lollipop.jpg": "/memory-card-game/static/media/lollipop.f7b419313899ed2da01b.jpg",
+    "index.html": "/memory-card-game/index.html",
+    "main.7c282b2c.css.map": "/memory-card-game/static/css/main.7c282b2c.css.map",
+    "main.cded32d4.js.map": "/memory-card-game/static/js/main.cded32d4.js.map"
   },
   "entrypoints": [
     "static/css/main.7c282b2c.css",
-    "static/js/main.fce0441a.js"
+    "static/js/main.cded32d4.js"
   ]
 }
